@@ -14,9 +14,7 @@ Search is a primary discovery mechanism, but requires one to already know someth
 "Digital transformation of our heritage"
 Towards a "generous" ethos:  Show rich content, reveal connections, explore.
 
-#### H4 Major attempts at Generous Interfaces:
-
-#### H6
+**Major attempts at Generous Interfaces:**
 
 **Metaphors**:
 ⋅⋅* "Lightbox" -show many items, zoom with magnifying glass
@@ -31,3 +29,4 @@ Towards a "generous" ethos:  Show rich content, reveal connections, explore.
 ⋅⋅* "Time"  
 
 ![Cooper Picture](/cooper.png)
+*When they click a tag, a timeline visualisation is generated of images of the other objects sharing that tag – arranged by date. The user can then click on further tags, to generate new timeline visualisations around the same starting image, viewing that image against contrasting historical narratives.*
