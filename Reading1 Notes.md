@@ -16,16 +16,16 @@ Towards a "generous" ethos:  Show rich content, reveal connections, explore.
 
 Major attempts at Generous Interfaces:
 
-Metaphors:
-"Lightbox" -show many items, zoom with magnifying glass
-"Lightbox" with collection grouping, by time decade
+**Metaphors**:
+..*"Lightbox" -show many items, zoom with magnifying glass
+..*"Lightbox" with collection grouping, by time decade
 
-Museum Re-creation:
-"Gallery Hang"
+**Museum Re-creation:**
+..*"Gallery Hang"
 
-Dimensions:
-"Maps & Geographies" - where items originated, or can be seen, etc
-"Color" 
-"Time"  
+**Dimensions:**
+..*"Maps & Geographies" - where items originated, or can be seen, etc
+..*"Color" 
+..*"Time"  
 
 ![Cooper Picture](/cooper.png)
