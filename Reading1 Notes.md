@@ -28,4 +28,4 @@ Dimensions:
 "Color" 
 "Time"  
 
-
+![Cooper Picture](/cooper.png)
