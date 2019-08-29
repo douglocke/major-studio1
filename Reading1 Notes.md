@@ -7,4 +7,4 @@ Major points:
 
 Search is a primary discovery mechanism, but requires one to already know something about the collection or what they are looking for.
 
-![GitHub Logo](/images/logo.png)
+![TedX Picture](/tedx.png)
