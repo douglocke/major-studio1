@@ -14,18 +14,20 @@ Search is a primary discovery mechanism, but requires one to already know someth
 "Digital transformation of our heritage"
 Towards a "generous" ethos:  Show rich content, reveal connections, explore.
 
-Major attempts at Generous Interfaces:
+#### H4 Major attempts at Generous Interfaces:
+
+#### H6
 
 **Metaphors**:
-..*"Lightbox" -show many items, zoom with magnifying glass
-..*"Lightbox" with collection grouping, by time decade
+⋅⋅* "Lightbox" -show many items, zoom with magnifying glass
+⋅⋅* "Lightbox" with collection grouping, by time decade
 
 **Museum Re-creation:**
-..*"Gallery Hang"
+⋅⋅* "Gallery Hang"
 
 **Dimensions:**
-..*"Maps & Geographies" - where items originated, or can be seen, etc
-..*"Color" 
-..*"Time"  
+⋅⋅* "Maps & Geographies" - where items originated, or can be seen, etc
+⋅⋅* "Color" 
+⋅⋅* "Time"  
 
 ![Cooper Picture](/cooper.png)
