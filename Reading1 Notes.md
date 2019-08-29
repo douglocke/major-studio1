@@ -17,16 +17,16 @@ Towards a "generous" ethos:  Show rich content, reveal connections, explore.
 **Major attempts at Generous Interfaces:**
 
 **Metaphors**:
-⋅⋅* "Lightbox" -show many items, zoom with magnifying glass
-⋅⋅* "Lightbox" with collection grouping, by time decade
+  * "Lightbox" -show many items, zoom with magnifying glass
+  * "Lightbox" with collection grouping, by time decade
 
 **Museum Re-creation:**
-⋅⋅* "Gallery Hang"
+  * "Gallery Hang"
 
 **Dimensions:**
-⋅⋅* "Maps & Geographies" - where items originated, or can be seen, etc
-⋅⋅* "Color" 
-⋅⋅* "Time"  
+  * "Maps & Geographies" - where items originated, or can be seen, etc
+  * "Color" 
+  * "Time"  
 
 ![Cooper Picture](/cooper.png)
-*When they click a tag, a timeline visualisation is generated of images of the other objects sharing that tag – arranged by date. The user can then click on further tags, to generate new timeline visualisations around the same starting image, viewing that image against contrasting historical narratives.*
+>*When they click a tag, a timeline visualisation is generated of images of the other objects sharing that tag – arranged by date. The user can then click on further tags, to generate new timeline visualisations around the same starting image, viewing that image against contrasting historical narratives.*
