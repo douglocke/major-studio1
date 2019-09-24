@@ -1,0 +1,145 @@
+
+// 15 decade rosary
+//  9-22-2019  10:07 AM  Version 1.0
+
+function setup() {
+  // Sets the screen to be x pixels wide and y pixels high
+  xcanvas = 1200;
+  ycanvas = 600;
+  createCanvas(xcanvas, ycanvas);
+  //colorMode(HSB, 360, 100, 100);
+  colorMode(HSB, 360, 100, 100);
+
+//  var radius = min(width, height) / 2;  
+  var radius = 200;  
+  //center the rosary in the middle and a little higher
+
+  h=xcanvas/2;
+  k=ycanvas/2;
+
+  r1 = 4.18879; //bottom
+  r2 = 4.607669;
+  r3 = 5.026548;
+  r4 = 5.445427;
+  r5 = 5.864306;
+  r6 = 0;
+  r7 = 0.418879;
+  r8 = 0.837758;
+  r9 = 1.256647;//top
+  r10 = 1.675516;
+  r11 = 2.094395;
+  r12 = 2.513274;
+  r13 = 2.932153;
+  r14 = 3.351032;
+  r15 = 3.769911; 
+
+  m1_x = radius*cos(r1)+h; 
+  m1_y = radius*sin(r1)+k; 
+
+  m2_x = radius*cos(r2)+h; 
+  m2_y = radius*sin(r2)+k; 
+
+  m3_x = radius*cos(r3)+h; 
+  m3_y = radius*sin(r3)+k; 
+
+  m4_x = radius*cos(r4)+h; 
+  m4_y = radius*sin(r4)+k; 
+
+  m5_x = radius*cos(r5)+h; 
+  m5_y = radius*sin(r5)+k; 
+
+  m6_x = radius*cos(r6)+h; 
+  m6_y = radius*sin(r6)+k; 
+
+  m7_x = radius*cos(r7)+h; 
+  m7_y = radius*sin(r7)+k; 
+
+  m8_x = radius*cos(r8)+h; 
+  m8_y = radius*sin(r8)+k; 
+
+  m9_x = radius*cos(r9)+h; 
+  m9_y = radius*sin(r9)+k; 
+
+  m10_x = radius*cos(r10)+h; 
+  m10_y = radius*sin(r10)+k; 
+
+  m11_x = radius*cos(r11)+h; 
+  m11_y = radius*sin(r11)+k; 
+
+  m12_x = radius*cos(r12)+h; 
+  m12_y = radius*sin(r12)+k; 
+
+  m13_x = radius*cos(r13)+h; 
+  m13_y = radius*sin(r13)+k; 
+
+  m14_x = radius*cos(r14)+h; 
+  m14_y = radius*sin(r14)+k; 
+
+  m15_x = radius*cos(r15)+h; 
+  m15_y = radius*sin(r15)+k; 
+
+
+}
+// Hue , Saturation, Brightnes, alpha
+//colorMode(HSB,360,100,100);
+
+function draw() {
+  var radius = 25;  
+background(0,20,20);
+strokeWeight(3);
+stroke(60,90,90);
+fill(60, 20, 20);
+//stroke(0,0,0);
+
+//fill(60, 100, 100);
+//var sec_size = map(s,0,60,0,25);
+//var event_col = color(60,100,100)
+//interA = lerpColor(from, to, .33);
+//interB = lerpColor(from, to, .66);
+
+//sun_col = color(60,50,50)
+//fill (sun_col);
+//circle(m1_x, m1_y,2*radius) 
+circle(m1_x,m1_y,2*radius);
+circle(m2_x,m2_y,2*radius);
+circle(m3_x,m3_y,2*radius);
+circle(m4_x,m4_y,2*radius);
+circle(m5_x,m5_y,2*radius);
+circle(m6_x,m6_y,2*radius);
+circle(m7_x,m7_y,2*radius);
+circle(m8_x,m8_y,2*radius);
+circle(m9_x,m9_y,2*radius);
+circle(m10_x,m10_y,2*radius);
+circle(m11_x,m11_y,2*radius);
+circle(m12_x,m12_y,2*radius);
+circle(m13_x,m13_y,2*radius);
+circle(m14_x,m14_y,2*radius);
+circle(m15_x,m15_y,2*radius);
+//circle(100,100,50);
+//ellipse(j_x,j_y,30, 30);
+
+//(HSB, 360, 100, 100, 1).
+//lunch
+
+//ellipse(200,200,400, 400);
+//debug 
+
+// H, S & B integer values
+//strokeWeight(1);
+//rect(20, 20, 60, 60);
+
+text ('Hello',30,80);
+text (m1_x, 30,10);
+text (m1_y, 30,30);
+text (radius, 30,50);
+//text (m+h*60, 10,40);
+//text (j_x, 10,50);
+//text (j_y, 10,60);
+//text (width, 300,10);
+//text (height, 300,20);
+//text (secondsRadius, 300,30);
+//text (sh, 300,40);
+//text ('Doug3', 300,50);
+//line(200,200, j_x+15, j_y+15);
+
+}
